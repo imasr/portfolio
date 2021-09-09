@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: `https://imasr.github.io`,
+  homepage: `https://imasr.github.io/portfolio`,
   title: `Ashish Singh`,
 }
 
@@ -16,6 +16,8 @@ const about = {
   social: {
     linkedin: 'https://linkedin.com/in/imasr',
     github: 'https://github.com/imasr',
+    facebook: 'https://www.facebook.com/imashishsinghrajput',
+    twitter: 'https://twitter.com/imashishrajput',
   },
 }
 
