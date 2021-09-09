@@ -7,7 +7,7 @@ It is built using React, if you want a template built using HTML, CSS and JS the
 
 ![Imgur](https://imgur.com/FwDMNEM.gif)
 
-[Live Preview](https://rajshekhar26.github.io/cleanfolio)
+[Live Preview](https://imasr.github.io/portfolio)
 
 ## Instructions
 
@@ -45,13 +45,13 @@ yarn start
 
 `<title>John Smith</title>` with `<title>Your Name</title>`.
 
-- Open `src/portfolio.js` and make changes.
+- Open `src/portfolio.js` and make changes.W
 
 ### Deployment
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
+`"homepage": "https://imasr.github.io/portfolio"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
