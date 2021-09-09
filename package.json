@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://imasr.github.io",
+  "homepage": "https://imasr.github.io/portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -25,6 +25,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
