@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://imasr.github.io",
+  "homepage": "https://imasr.github.io/portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
